@@ -61,9 +61,6 @@ Ash 大部分套餐是**赠送 Emby 媒体服务器账号**，可以省去买流
 | Plus   |  ¥58 / 月付 |  500 GB | 最多 5 台 | 500 Mbps | 重度日常使用更稳妥     |
 | Ultra  | ¥108 / 月付 | 1000 GB | 最多 5 台 |        ∞ | 大流量档位             |
 
-<img src="https://raw.githubusercontent.com/jichangbaike/ash/refs/heads/main/images/ash-price-01.png" alt="ash 机场价格" >
-
-<img src="https://raw.githubusercontent.com/jichangbaike/ash/refs/heads/main/images/ash-price-02.png" alt="ash 机场价格" >
 
 ## Ash 套餐共同特征
 
